@@ -114,8 +114,8 @@ Nombre de tablas:
   - Ejemplos:
     - nombre
     - password
-    - tipo
-    - valor
+    - tipo_item
+    - valor_principal
     - obs (observaciones)
 - Todas las llaves primarias (primary key) deben llamarse "id"
 - Las llaves foráneas (foreign keys) deben empezar con "id" y terminar con el nombre de la tabla relacionada en singular
